@@ -1,5 +1,7 @@
 function threeSum(arr, target) {
-// write your code here
+
+	let bin = arr.toString(2);
+	console.log(bin);
   
 }
 
